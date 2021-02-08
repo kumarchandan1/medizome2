@@ -1036,6 +1036,10 @@ display: none;
 .header{
 	margin-left: 10px;
 }
+	.message-box{
+		width:300px;
+		height:300px;
+	}
 nav{
 	margin-left: 10px;
 }
